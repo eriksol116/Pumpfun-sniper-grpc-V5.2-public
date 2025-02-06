@@ -1,5 +1,8 @@
 # 🚀 **PumpFun Sniper Bot v5.2 (using Geyser(Yellowstone))** 
 
+Pumpfun sniper bot V5.2 snipe new token within 1 or 2 blocks after token mint. so this bot snipe token very fast and sell them anytime.
+Bot always make profit. There are some sell strategy.
+
 Welcome to the **PumpFun Sniper Bot v5.2**! This bot watches for new `pump.fun` token mints on the Solana blockchain in real-time by using Geyser(Yellowstone), making it the perfect tool to monitor token launches. 🌟
 
 ### 🎯 **Key Features**
