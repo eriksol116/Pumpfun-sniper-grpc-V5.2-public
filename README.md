@@ -30,6 +30,18 @@ Telegram: [@erikerik116](https://t.me/erikerik116)
 
 Discord: @erikerik116
 
+## 🧑‍💻 **GMGN**
+
+This bot always make profit.
+
+Link : **[https://gmgn.ai/sol/address/DYW2cn4vCDLm3AW66E2ubujoudaXxdyu7TeMDE9iD8Vo](https://gmgn.ai/sol/address/DYW2cn4vCDLm3AW66E2ubujoudaXxdyu7TeMDE9iD8Vo)**
+
+![gmgn-pumpfun-sniper-grpc](https://github.com/user-attachments/assets/659f879f-a33a-4cc4-b578-3d97faa030d0)
+
+
+![grpc-sniper-filter-success](https://github.com/user-attachments/assets/cc873fbb-f164-4d3a-b6f4-237fb7454ba1)
+
+
 ## 🧑‍💻 **Transactions**
 
 Token mint : https://solscan.io/tx/2zjrjqA6Jfrqc8FpasmfY4Eedgci36QoXVHCr2dS8MGQ7F4hEN8TQJ37TetYP75cj1u9kh4Eu7NgDvRvqZ425GBW
