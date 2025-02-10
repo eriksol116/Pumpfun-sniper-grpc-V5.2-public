@@ -57,7 +57,10 @@ Token but : https://solscan.io/tx/2fJctjpCnidkCQqcWupj9rcyVYRYVNodNWV6982RDmXyXm
 
 
 
-https://github.com/user-attachments/assets/a6860c28-c8f4-4172-8765-1923db08d4ad
+
+https://github.com/user-attachments/assets/640c057c-a781-4204-b12f-8b47a24040d4
+
+
 
 
 
