@@ -28,7 +28,7 @@ Gmail: tom.kinddev@gmail.com
 
 Telegram: [@erikerik116](https://t.me/erikerik116)
 
-Discord: @erikerik116
+Discord: [@erikerik116](https://discord.com/channels/@me/304228787250528256)
 
 ## 🧑‍💻 **GMGN**
 
