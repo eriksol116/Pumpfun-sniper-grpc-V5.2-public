@@ -5,6 +5,24 @@ Bot always make profit. There are some sell strategy.
 
 Welcome to the **PumpFun Sniper Bot v5.2**! This bot watches for new `pump.fun` token mints on the Solana blockchain in real-time by using Geyser(Yellowstone), making it the perfect tool to monitor token launches. 🌟
 
+
+
+
+## 🧑‍💻 **Recording Video**
+
+
+
+
+https://github.com/user-attachments/assets/640c057c-a781-4204-b12f-8b47a24040d4
+
+
+
+
+
+
+
+
+
 ### 🎯 **Key Features**
 
 - 🛰️ **Real-time WebSocket Streaming**: 
@@ -51,17 +69,6 @@ Token mint : https://solscan.io/tx/2zjrjqA6Jfrqc8FpasmfY4Eedgci36QoXVHCr2dS8MGQ7
 Token but : https://solscan.io/tx/2fJctjpCnidkCQqcWupj9rcyVYRYVNodNWV6982RDmXyXmiHVozvgPrBwqWwvhQiEvFJ8BsaUXN1HPF2GW856VXb
 
 ![grpc-buy-1-block-buy](https://github.com/user-attachments/assets/1bc5edcb-716d-4e5f-9fef-0ff10bc8cf16)
-
-
-## 🧑‍💻 **Recording Video**
-
-
-
-
-https://github.com/user-attachments/assets/640c057c-a781-4204-b12f-8b47a24040d4
-
-
-
 
 
 
